@@ -1,3 +1,3 @@
 # groupeddata
 
-cheat final exam
+quick calculate final exam
